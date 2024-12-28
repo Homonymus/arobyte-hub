@@ -29,7 +29,7 @@ node start.js > log &
 ```
 ## Customize
 
-If you want to change any defaults, refer to the documentation of [core](../../../core), the core O<sub>byte</sub> library `require()`'d from here.
+If you want to change any defaults, refer to the documentation of [core](../../../core), the core @<sub>byte</sub> library `require()`'d from here.
 
 ## Push notifications
 
